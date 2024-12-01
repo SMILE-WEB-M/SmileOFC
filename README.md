@@ -1,8 +1,8 @@
-# Hello, I'm SmileOFC! 
+# **Hello, I'm SmileOFC!** 
 
 >## About me: 
 
-- **Computer Science student at University of Havana** 
+## **Computer Science student at University of Havana** 
 - **I'm a passionate Full Stack Web Developer with a comprehensive skill set in both front-end and back-end development. I thrive on creating dynamic, responsive, and user-friendly web applications. With a solid foundation in various programming languages and frameworks, I am equipped to bring innovative solutions to complex problems. Here’s a snapshot of**
 
 ### Technologies & Tools
