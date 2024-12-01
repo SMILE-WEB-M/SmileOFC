@@ -54,8 +54,19 @@
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=travis-ci&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white)
 
-### 📈 GitHub Stats
+## Contact whith Me!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle) 
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YourTwitterHandle) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/YourInstagramHandle) 
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/YourPhoneNumber) 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YourTelegramHandle) 
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/YourDiscordInvite) 
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/YourFacebookProfile)
+
+# GitHub Stats
 
 ![SmileOFC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmileOFC&show_icons=true&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle) [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YourTwitterHandle) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/YourInstagramHandle) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/YourPhoneNumber) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YourTelegramHandle) [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/YourDiscordInvite) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/YourFacebookProfile)
+
