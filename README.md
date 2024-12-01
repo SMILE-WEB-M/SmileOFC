@@ -2,6 +2,10 @@
 
 ## About me: 
 
+>> Computer Science student at University of Havana
+ 
+- **I'm a passionate Full Stack Web Developer with a comprehensive skill set in both front-end and back-end development. I thrive on creating dynamic, responsive, and user-friendly web applications. With a solid foundation in various programming languages and frameworks, I am equipped to bring innovative solutions to complex problems. Here’s a snapshot of**
+
 ### Technologies & Tools
 
 #### Front-End Development
@@ -54,7 +58,7 @@
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=travis-ci&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white)
 
-## Contact whith Me!
+## Contact with Me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle) 
